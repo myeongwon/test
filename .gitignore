@@ -1,0 +1,5 @@
+###USER###
+*.psd
+# Dependency directory
+node_modules
+시안-assets

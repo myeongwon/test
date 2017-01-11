@@ -1,0 +1,16 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.2.0",
+    "webpack": "^1.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    
+  },
+  "author": "",
+  "license": "ISC"
+}
